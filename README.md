@@ -2,8 +2,8 @@
 
 # About Myself
 สวัสดีครับผมโฟน เป็น Front End Developer พัฒนา Mobile Application ที่ Weserve Lifestyle Co.Ltd เรียนอยู่คณะวิศวกรรมศาสตร์ วิศวกรรมคอมพิวเตอร์ กำลังจะจบในเทอมนี้ ทำงานไปด้วยเรียนไปด้วย ดูแลโปรเจค Smartfarm Application ซึ่งพัฒนาด้วย Flutter
-**Programing Language**
 
+**Programing Language**
  - Dart
  - Java
  - Python
