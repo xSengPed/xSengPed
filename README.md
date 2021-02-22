@@ -1,16 +1,25 @@
-### Hi there 👋
+### สวัสดีครับ 👋
 
-<!--
-**KalimaPz/KalimaPz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Myself
+สวัสดีครับผมโฟน เป็น Front End Developer พัฒนา Mobile Application ที่ Weserve Lifestyle Co.Ltd เรียนอยู่คณะวิศวกรรมศาสตร์ วิศวกรรมคอมพิวเตอร์ กำลังจะจบในเทอมนี้ ทำงานไปด้วยเรียนไปด้วย ดูแลโปรเจค Smartfarm Application ซึ่งพัฒนาด้วย Flutter
+**Programing Language**
 
-Here are some ideas to get you started:
+ - Dart
+ - Java
+ - Python
+ - JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Knowledge
+**General**
+ - Object-Oriented Programing **(Intermediate)**
+  - State Management **(Intermediate)**
+  - UX/UI Design **(Intermediate)**
+
+**Front End**
+- Flutter Mobile Framework **(Expert)**
+- Vue.js **(Intermediate)**
+
+**Backend**
+- Node.js **(Basic)**
+- Django Restframework **(Basic)**
+- Mongo DB (Basic) **(Basic)**
