@@ -25,3 +25,9 @@
 - Node.js **(Basic)**
 - Django Restframework **(Basic)**
 - Mongo DB (Basic) **(Basic)**
+- 
+<p align="left">
+<img src=https://github-readme-stats.vercel.app/api?username=KalimaPz&show_icons=true&include_all_commits=true&count_private=true alt=rahuldkjain />
+</p> 
+
+[![gitihm stats](https://github-readme-stats.vercel.app/api/wakatime?username=KalimaPz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
