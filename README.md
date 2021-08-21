@@ -24,7 +24,7 @@
 **Backend**
 - Node.js **(Basic)**
 - Django Restframework **(Basic)**
-- Mongo DB (Basic) **(Basic)**
+- Mongo DB **(Basic)**
 - 
 <p align="left">
 <img src=https://github-readme-stats.vercel.app/api?username=KalimaPz&show_icons=true&include_all_commits=true&count_private=true alt=rahuldkjain />
