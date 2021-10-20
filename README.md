@@ -1,7 +1,7 @@
-### สวัสดีครับ 👋
+### Hi! 👋
 
 # About Myself
-สวัสดีครับผมโฟน เป็น Software Engineer ที่ Digital Organic จบจากคณะวิศวกรรมศาสตร์ วิศวกรรมคอมพิวเตอร์
+
 
 **Programing Language**
  - Dart
@@ -25,7 +25,6 @@
 - Node.js **(Basic)**
 - Django Restframework **(Basic)**
 - Mongo DB **(Basic)**
-- 
 <p align="left">
 <img src=https://github-readme-stats.vercel.app/api?username=KalimaPz&show_icons=true&include_all_commits=true&count_private=true alt=rahuldkjain />
 </p> 
