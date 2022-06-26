@@ -1,4 +1,4 @@
-### Hi! 👋
+### Hi! 👋 My Name is Donnukrit. I'm working as Senior Software Engineer at Digital Organic Co. Ltd. and Freelancer. My skills are newbie in Backend and Dev Ops. I like to learning new things if i have a freetime. I have a experience in mobile app development with Flutter for 3 years.
 
 # About Myself
 
