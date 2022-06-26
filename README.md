@@ -4,27 +4,36 @@
 
 
 **Programing Language**
- - Dart
- - Java
- - Python
- - JavaScript
+ - Dart (Currently)
+ - Java (Long ago)
+ - Python (Currently)
+ - JavaScript (Currently)
+ - Kotlin (Long ago)
 
 ## Knowledge
 **General**
  - Object-Oriented Programing **(Intermediate)**
-  - State Management **(Intermediate)**
-  - UX/UI Design **(Intermediate)**
+ - State Management **(Intermediate)**
+ 
 
 **Front End**
-- Flutter Mobile Framework **(Expert)**
+- Flutter Mobile Framework **(Professional)** (Flutter Hook , Provider , Riverpod)
 - React Native **(Intermediate)**
-- Vue.js **(Intermediate)**
+- Vue.js **(Expert)** (Vuex, Quasar , Vuetify , VITE)
+- NUXT **(Expert)**
 - React.js **(Intermediate)**
+- UX/UI Design **(Intermediate)**
 
 **Backend**
-- Node.js **(Basic)**
-- Django Restframework **(Basic)**
-- Mongo DB **(Basic)**
+- Node.js **(Intermediate)**
+- Fast API **(Basic)**
+- Mongo DB **(Intermediate)**
+
+**Dev Ops**
+- AWS (Basic)
+- Google Cloud Platform (Basic)
+- Docker (Basic)
+
 <p align="left">
 <img src=https://github-readme-stats.vercel.app/api?username=KalimaPz&show_icons=true&include_all_commits=true&count_private=true alt=rahuldkjain />
 </p> 
