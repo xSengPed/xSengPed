@@ -1,5 +1,8 @@
-### Hi! 👋 My Name is Donnukrit. I'm working as Senior Software Engineer at Digital Organic Co. Ltd. and Freelancer. My skills are newbie in Backend and Dev Ops. I like to learning new things if i have a freetime. I have a experience in mobile app development with Flutter for 3 years.
-
+### Currently im working as mobile developer with Exvention. Use Flutter for mobile application development.
+Im have an experience in mobile applications development for 3 years. Im able to use front end web applications framework such as Vue and React.
+**My Project**  
+Paotang : GLO (Digital Lottery) by Krungthai Bank (KTB)
+Collaborated with Accenture , Arise by Infinitas , Prior Solution
 # About Myself
 
 
