@@ -3,7 +3,7 @@
 
 <p align="left">I'm working as Mobile Developer with Exvention. Experienced in Flutter for 3 years. I'm graduate from Faculty of Engineering :  Computer Engineering , Prince of Songkhla University. Able to English for communication. </p>
 <h3>Projects</h3>
-<p><b>Paotang Superapp Module</b> : GLO (Digital Lottery) by Krungthai Bank (KTB)</p>
+<p><b>Paotang Superapp Module</b> : GLO (Digital Lottery) | GLO (Tungngern App) by Krungthai Bank (KTB)</p>
 <p>Collaborated with Accenture , Arise by Infinitas , Prior Solution</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalimapz&label=Profile%20views&color=0e75b6&style=flat" alt="kalimapz" /> </p>
 <h3 align="left">Knowledge</h3>
