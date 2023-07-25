@@ -13,6 +13,7 @@
 <li>Unit Testing</li>
 <li>Integration Testing</li>
 <li>Test Driven Development (TDD)</li>
+<li>Platform Integration</li>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
