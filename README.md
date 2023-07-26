@@ -41,8 +41,5 @@
 <a href="https://medium.com/@donnukrit-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@donnukrit-s" height="30" width="40" /></a>
 </p>
 
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalimapz&show_icons=true&locale=en&layout=compact" alt="kalimapz" /></p>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=kalimapz&bg_color=2D3748&title_color=2F855A&icon_color=2F855A&text_color=ffffff&hide_title=true&langs_count=20&layout=compact"></img>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalimapz&" alt="kalimapz" /></p>
