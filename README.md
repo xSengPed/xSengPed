@@ -10,7 +10,8 @@
 <h3 align="left">Knowledge</h3>
 <li>Object-Oriented Programing</li>
 <li>Software Development Methodology</li>
-<li>MVC Design Pattern</li>
+<li>Model-View-Controller (MVC) Design Pattern</li>
+<li>Model-View-ViewModel (MVVM) Design Pattern</li>
 <li>Unit Testing</li>
 <li>Integration Testing</li>
 <li>Test Driven Development (TDD)</li>
