@@ -6,6 +6,14 @@
 
 ###
 
+<h2 align="left">Knowledge</h2>
+
+###
+
+<h4 align="left">- Object-Oriented Programing<br><br>- Software Development Methodology<br><br>- Model-View-Controller (MVC) Design Pattern<br><br>- Model-View-ViewModel (MVVM) Design Pattern<br><br>- Test Driven Development (TDD)<br><br>- Platform Integration<br><br>- Agile Methodology</h4>
+
+###
+
 <h2 align="left">Programing Language</h2>
 
 ###
@@ -71,6 +79,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
+
+###
+
+<h2 align="left">Past Projects</h2>
+
+<p><b>Paotang Superapp Module</b> : GLO (Digital Lottery) | GLO ( Tungngern App ) by Krungthai Bank ( KTB )</p>
+<p>Collaborated with Accenture (Thailand), Arise by Infinitas , Prior Solution</p>
+
+### 
+
+<p><b>SGJ Delivery Application , SGJ Back Office Desktop Application</b></p>
+<p>Digital Organic Co. Ltd.</p>
 
 ###
 
