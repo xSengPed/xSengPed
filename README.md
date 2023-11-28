@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">
+<h3 align="left">
   
   - Object-Oriented Programing
   
@@ -26,7 +26,7 @@
   
   - Agile Methodology
   
-</h4>
+</h3>
 
 ###
 
