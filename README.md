@@ -12,20 +12,14 @@
 
 <h3 align="left">
   
-  - Object-Oriented Programing
-  
-  - Software Development Methodology
-  
-  - Model-View-Controller (MVC) Design Pattern
-  
-  - Model-View-ViewModel (MVVM) Design Pattern
-  
-  - Test Driven Development (TDD)
-  
-  - Platform Integration
-  
-  - Agile Methodology
-  
+<li>Object-Oriented Programing</li>
+<li>Software Development Methodology</li> 
+<li>Model-View-Controller (MVC) Design Pattern</li>
+<li>Model-View-ViewModel (MVVM) Design Pattern</li>
+<li>Test Driven Development (TDD)</li>
+<li>Platform Integration</li>
+<li>Agile Methodology</li>
+
 </h3>
 
 ###
