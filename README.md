@@ -11,10 +11,12 @@
 ###
 
 <div>
-  <li>Object-Oriented Programing</li>
   <li>Software Development Methodology</li> 
+  <li>Object-Oriented Programing</li>
   <li>Model-View-Controller (MVC) Design Pattern</li>
   <li>Model-View-ViewModel (MVVM) Design Pattern</li>
+  <li>Web Application Development</li>
+  <li>Backend Development</li>
   <li>Test Driven Development (TDD)</li>
   <li>Platform Integration</li>
   <li>Agile Methodology</li>
@@ -92,13 +94,25 @@
 
 <h2 align="left">Past Projects</h2>
 
-<p><b>Paotang Superapp Module</b> : GLO (Digital Lottery) | GLO ( Tungngern App ) by Krungthai Bank ( KTB )</p>
-<p>Collaborated with Accenture (Thailand), Arise by Infinitas , Prior Solution</p>
+<b>Exvention Co. Ltd (Flutter Developer)</b>
+<p><b>Paotang Superapp Module (Outsource)</b> 
+<br/>GLO (Digital Lottery) | GLO (Tungngern App) by Krungthai Bank (KTB)<br/>Collaborated with <b>Accenture (Thailand)</b>, <b>Arise by Infinitas</b> and <b>Prior Solution</b></p>
+
 
 ### 
 
-<p><b>SGJ Delivery Application , SGJ Back Office Desktop Application</b></p>
-<p>Digital Organic Co. Ltd.</p>
+<b>Digital Organic Co. Ltd (Software Engineer)</b>
+<p>SGJ Delivery Application <b>(Flutter)</b> | SGJ Back Office Desktop Application <b>(Electron)</b></p>
+
+###
+
+<b>Alicorn Tech  Co. Ltd</b>
+<p>Noochuap Delivery Application <b>(Flutter)</b> | Noochuap Delivery App Backoffice <b>(Vue.js)</b></p>
+
+###
+
+<b>Weserve Lifestyle Co. Ltd</b>
+<p>Artisgo Merchant Mobile Application <b>(Flutter)</b></p>
 
 ###
 
