@@ -120,7 +120,8 @@
 
 ###
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=xSengPed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<p align="left">
+<img src=https://github-readme-stats.vercel.app/api/wakatime?username=11SF&layout=compact&hide=Other&theme=radical&hide_border=true alt=rahuldkjain />
+</p> 
 
 ###
