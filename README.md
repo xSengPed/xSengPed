@@ -116,7 +116,7 @@
 
 ###
 
-[![xSengPed's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xSengPed)](https://github.com/anuraghazra/github-readme-stats)
+<img src=https://github-readme-stats.vercel.app/api/wakatime?username=xSengPed&layout=compact&hide=Other&theme=radical&hide_border=true alt=rahuldkjain />
 
 ###
 
