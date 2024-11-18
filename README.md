@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">- Software Development Methodology<br>- Clean Architecture<br>- Object-Oriented Programing<br>- Mobile Application Development<br>- Web Application Development<br>- Backend Development<br>- Platform Integration<br>- Agile Methodology</p>
+<p align="left">- Software Development Methodology<br>- Clean Architecture<br>- Object-Oriented Programing<br>- Mobile Application Development<br>- Web Application Development<br>- Backend Development<br>- Platform Integration<br>- Agile Methodology</p> <br>- Integration Testing</p>
 
 ###
 
