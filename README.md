@@ -10,8 +10,7 @@
 <h2 align="left">My Skills</h2>
 
 ###
-
-<p align="left">- Software Development Methodology<br>- Clean Architecture<br>- Object-Oriented Programing<br>- Mobile Application Development<br>- Web Application Development<br>- Backend Development<br>- Platform Integration<br>- Agile Methodology</p> <br>- Integration Testing</p>
+<p align="left">- Software Development Methodology<br>- Clean Architecture<br>- Object-Oriented Programing<br>- Mobile Application Development<br>- Frontend Web Application Development<br>- Platform Integration<br>- Agile Methodology<br>- Integration Testing </p> 
 
 ###
 
@@ -40,9 +39,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="apachekafka logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
@@ -61,10 +64,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+
+  
+  
 </div>
 
 ###
@@ -73,25 +75,30 @@
 
 ###
 
-<b>Exvention Co. Ltd (Flutter Developer)</b>
-<p><b>Paotang Superapp Module (Outsource)</b> 
+<b>Extend It Resource Co. Ltd (Flutter Developer)</b>
+<p>- SCB PointX Application (Outsource)
+  
+<p>- Paotang Superapp Module (Outsource)
 <br/>GLO (Digital Lottery) | GLO (Tungngern App) by Krungthai Bank (KTB)<br/>Collaborated with <b>Accenture (Thailand)</b>, <b>Arise by Infinitas</b> and <b>Prior Solution</b></p>
 
+###
+
+<b>Exvention Co. Ltd (Flutter Developer)</b>
+<p>- KTB Fraud Check Integration Api (Golang , Fiber, Apache Nifi) (Outsource)
+
+<p>- Paotang Superapp Module (Outsource)
+<br/>GLO (Digital Lottery) | GLO (Tungngern App) by Krungthai Bank (KTB)<br/>Collaborated with <b>Accenture (Thailand)</b>, <b>Arise by Infinitas</b> and <b>Prior Solution</b></p>
 
 ### 
 
 <b>Digital Organic Co. Ltd (Software Engineer)</b>
-<p>SGJ Delivery Application <b>(Flutter)</b> | SGJ Back Office Desktop Application <b>(Electron)</b></p>
-
-###
-
-<b>Alicorn Tech  Co. Ltd</b>
-<p>Noochuap Delivery Application <b>(Flutter)</b> | Noochuap Delivery App Backoffice <b>(Vue.js)</b></p>
+<p> - SGJ Delivery Application <b>(Flutter)</b> | SGJ Back Office Desktop Application <b>(Electron)</b></p>
 
 ###
 
 <b>Weserve Lifestyle Co. Ltd</b>
-<p>Artisgo Merchant Mobile Application <b>(Flutter)</b></p>
+<p> - Noochuap Delivery Application <b>(Flutter)</b> | Noochuap Delivery App Backoffice <b>(Vue.js)</b></p>
+<p> - Artisgo Merchant Mobile Application <b>(Flutter)</b></p>
 
 ###
 
