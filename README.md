@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">I'm working as Mobile Developer with Exvention.<br>Experienced in Flutter for 3 years.<br>I'm graduate from Faculty of Engineering : Computer Engineering,Prince of Songkhla University, Currently I work as outsource on site at KTB with collaborated with Accenture, Arise by Infinitas, Prior Solution. I'm Good to communicate with English.</p>
+<p align="left">Passionate Senior Mobile Developer at <b>SCBX (PointX)</b> with 5 years of dedicated experience in <b>Flutter</b> I specialize in crafting robust and engaging mobile applications, currently focused on PointX. Alumnus of Prince of Songkhla University (Computer Engineering). Open to collaboration and communication in English.</p>
 
 ###
 
