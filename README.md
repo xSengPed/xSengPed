@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Passionate Senior Mobile Developer at <b>SCBX (PointX)</b> with 5 years of dedicated experience in <b>Flutter</b> I specialize in crafting robust and engaging mobile applications, currently focused on PointX. Alumnus of Prince of Songkhla University (Computer Engineering). Open to collaboration and communication in English.</p>
+<p align="left">Passionate Senior Mobile Developer at <b>SCBX (PointX)</b> with 6 years of dedicated experience in <b>Flutter</b> I specialize in crafting robust and engaging mobile applications, currently focused on PointX. Alumnus of Prince of Songkhla University (Computer Engineering). Open to collaboration and communication in English.</p>
 
 ###
 
